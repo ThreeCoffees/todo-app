@@ -1,5 +1,11 @@
 # Todo app
 
+## Dev Test
+```sh
+cargo watch -q -c -w src/ -x 'test model_db_ -- --test-threads=1 --nocapture'
+
+```
+
 ## DB
 
 ```sh
