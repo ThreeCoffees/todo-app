@@ -1,0 +1,14 @@
+{
+    "name": "todo-app-ui",
+    "type": "module",
+    "version": "0.0.1",
+    "description": "Todo App Frontend",
+    "dependencies": {
+
+    },
+    "devDependencies": {
+
+    },
+    "author": "Three Coffees",
+    "license": "MIT"
+}
